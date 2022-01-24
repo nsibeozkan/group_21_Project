@@ -7,6 +7,10 @@ public class PasswordTestCase {
 
         System.out.println("Enter your password: ");
 
+        //step 1
+
+
+
 
     }
 
