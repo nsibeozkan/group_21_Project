@@ -7,4 +7,6 @@ public class TestClass {
     // dal tartar kartal kalkar
 
     // su kose yaz kosesi su kose kis kosesi ortadaki su sisesi
+
+    // sakla samani gelir zamani
 }
