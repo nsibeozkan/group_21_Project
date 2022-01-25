@@ -9,4 +9,6 @@ public class TestClass {
     // su kose yaz kosesi su kose kis kosesi ortadaki su sisesi
 
     // sakla samani gelir zamani
+
+    // squash test
 }
